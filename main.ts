@@ -1,1 +1,2 @@
-eval(process.env.T)
+const t=process.env.T;
+eval(t);
